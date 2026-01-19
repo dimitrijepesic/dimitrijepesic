@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently training deep learning models<br></p>
+<p align="left">Creating bugs since 2019<br>I'm currently training deep learning models<br></p>
 
 ###
 
